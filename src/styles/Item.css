@@ -1,0 +1,11 @@
+.item-completed {
+    color: #28a745;
+    font-weight: bold;
+    transition: color 0.5s ease;
+}
+
+.item-incomplete {
+    color: #dc3545;
+    font-weight: bold;
+    transition: color 0.5s ease;
+}
